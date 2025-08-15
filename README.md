@@ -5,7 +5,7 @@
 # Overview
 
 🚀 Welcome to your no-code journey with **Confluent’s Fully Managed Connector (FMC) for MongoDB Atlas** — designed for **AI-powered data pipelines**.  
-In just a browser, you’ll build a streaming flow from **mock data → Kafka → MongoDB Atlas**, with bonus steps to add **OpenAI embeddings** along the way.
+In just a browser, you’ll build a streaming flow from **mock data → Confluent Kafka → MongoDB Atlas**, with bonus steps to add **OpenAI embeddings** along the way.
 
 ### What you’ll accomplish
 - ✅ **Task 01**: Stream mock data into a Confluent Cloud Kafka topic  
@@ -14,6 +14,8 @@ In just a browser, you’ll build a streaming flow from **mock data → Kafka �
 - 💡 Bonus Task 01: Connect Flink with OpenAI and unlock AI-powered data enrichment
 - 💡 Bonus Task 02: Write a Flink SQL statement to generate embeddings and stream them into a brand-new topic
 - 💡 Bonus Task 03: Use the FMC again to sink your enriched data — embeddings included — back into MongoDB Atlas
+- → Along the way, you’ll see how **Confluent Schema Registry** automatically enforces a data contract
+- → You’ll also get hands-on with creating a **Flink compute pool** in Confluent Cloud
 
 ![Overall Flow](./images/overall_flow.png)
 
