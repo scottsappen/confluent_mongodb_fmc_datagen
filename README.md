@@ -7,6 +7,16 @@
 🚀 Welcome to your no-code journey with **Confluent’s Fully Managed Connector (FMC) for MongoDB Atlas** — designed for **AI-powered data pipelines**.  
 In just a browser, you’ll build a streaming flow from **mock data → Confluent Kafka → MongoDB Atlas**, with bonus steps to add **OpenAI embeddings** along the way.
 
+<p align="center">
+  <a href="https://youtu.be/y54UOIWIFIE" target="_blank">
+    <img src="https://img.youtube.com/vi/y54UOIWIFIE/0.jpg" alt="Prefer video? Watch the full walkthrough on YouTube!" width="600"/>
+  </a>
+</p>
+
+<p align="center">
+  🎥 <a href="https://youtu.be/y54UOIWIFIE" target="_blank">Prefer video? Watch the full walkthrough on YouTube!</a>
+</p>
+
 ### What you’ll accomplish
 - ✅ **Task 01**: Stream mock data into a Confluent Cloud Kafka topic  
 - ✅ **Task 02**: Create a MongoDB Atlas collection as the destination  
