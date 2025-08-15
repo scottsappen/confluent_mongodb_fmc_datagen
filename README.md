@@ -15,7 +15,7 @@ In just a browser, you’ll build a streaming flow from **mock data → Kafka �
 - 💡 Bonus Task 02: Write a Flink SQL statement to generate embeddings and stream them into a brand-new topic
 - 💡 Bonus Task 03: Use the FMC again to sink your enriched data — embeddings included — back into MongoDB Atlas
 
-![Overall Flow](./overall_flow.png)
+![Overall Flow](./images/overall_flow.png)
 
 > **Assumptions**  
 > - You have a web browser  
